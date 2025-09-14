@@ -8,10 +8,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Alvews Oliveira
+- Matricula: 902466
+- Proposta de projeto escolhida: Site de vistorias veicular
+- Breve descrição sobre seu projeto: Breve site para agendamentos e cadastro de processos e veículos
 
 ## Print da versão responsiva com CSS puro
 
